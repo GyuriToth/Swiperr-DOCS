@@ -11,7 +11,7 @@ This is contains all information about what we consider as a advertable topic.
 
 * **Internal:**
     * visibility
-    *asdasda
+    * Dominik szia
     *
 
 
